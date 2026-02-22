@@ -42,11 +42,11 @@ Opções:
 
 ```bash
 
-* --port → define a porta (default 3001)
++ --port → define a porta (default 3001)
 
-* --faker → gera dados Faker automaticamente
++ --faker → gera dados Faker automaticamente
 
-* --delay → simula delay de rede em milissegundos
++ --delay → simula delay de rede em milissegundos
 
 ```
 
@@ -66,11 +66,9 @@ npm run dev -- clear --route /users
 
 ```
 
-* O id pode vir do path (/users/123) ou será gerado automaticamente
-
-* Ideal para desenvolvimento frontend, testes e prototipagem rápida
-
-* Suporta delays e logging de requisições para simular APIs reais
+- O id pode vir do path (/users/123) ou será gerado automaticamente
+- Ideal para desenvolvimento frontend, testes e prototipagem rápida
+- Suporta delays e logging de requisições para simular APIs reais
 
 ```
 
