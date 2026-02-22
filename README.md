@@ -25,7 +25,7 @@ Um gerenciador de mocks local, construído com Node.js, Fastify e TypeScript, id
 ### 1️⃣ Instalação
 
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/Arieviloo/mock-manager.git
 cd mock-manager
 npm install
 ```
